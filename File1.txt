@@ -1,1 +1,2 @@
-this is file 1
+this is file 1.  File 1 has been updated in A
+We also added a new line to file 1 from A
