@@ -1,1 +1,2 @@
-this is file 1
+this is file 1.  Adding more text from B.
+Adding a new line from B.
